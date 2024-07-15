@@ -1,4 +1,5 @@
 
+/* RESET CSS */
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@
   /* CORES */
   :root {
     --bg-color: #077697;
-    --bg-card-color: #090114;
+    --bg-card-color: #430d8f;
     --bg-footer-header-color: #39c800;
     --button-color: #03318C;
     --text-title-color: #000;
@@ -39,7 +40,7 @@
     line-height: 16px;
   }
   
-  /* SECTION MAIN */
+  /* SECÃO MAIN */
   #produtos {
     display: grid;
     grid-template-columns: 55% 45%;
@@ -89,7 +90,7 @@
     width: 196px;
     height: 258px;
     border-radius: 10px;
-    border: 3px solid #000;
+    border: 3px solid #aac1aa;
     background: var(--bg-card-color);
     box-shadow: -5px 6px 3.3px 0 rgba(0, 0, 0, 0.25);
   }

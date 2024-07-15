@@ -1,0 +1,15 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "AluraGeek-challenge Este projeto foi desenvolvido como parte de um desafio proposto pela Alura, com o objetivo de criar um e-commerce chamado \"AluraGeek\" a partir de um design disponibilizado no Figma. O desafio exigiu a criação de todas as funcionalidades do zero, utilizando apenas HTML, CSS e JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

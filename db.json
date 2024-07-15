@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "nome": "Mario Classic",
+      "preco": "60,00",
+      "imagem": "https://down-br.img.susercontent.com/file/078408821cd90749aa1377aae35238d4"
+    },
+    {
+      "id": 2,
+      "nome": "Game Classic",
+      "preco": "70,00",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/686482/mini_game_retro_com_400_jogos_antigos_e_1_controle_lps_501_3403_1_53456dd48336383c0f9e3a0cdcd17dcd.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Game Boy Classic",
+      "preco": "140,00",
+      "imagem": "https://down-br.img.susercontent.com/file/3ef82b03b10b1613a2d9d4c59bc72d30"
+    },
+    {
+      "nome": "Controle",
+      "preco": "55,00",
+      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?t=st=1717859052~exp=1717862652~hmac=460aea9767e5ea7307b180794bcbda8dd9ebd1e9ce3634176739fd82aab7af16&w=826",
+      "id": 7
+    },
+    {
+      "nome": "Mário",
+      "preco": "30,00",
+      "imagem": "https://super.abril.com.br/wp-content/uploads/2018/07/5746038b0e21634575066b09mario1.jpeg",
+      "id": 8
+    },
+    {
+      "nome": "Zelda TOTK",
+      "preco": "330,00",
+      "imagem": "https://t3.ftcdn.net/jpg/04/63/19/48/360_F_463194833_kKcuvlJIxRwzU22MHBJFkrxsWc7AiVhT.jpg",
+      "id": 9
+    },
+    {
+      "nome": "Playstation",
+      "preco": "130,00",
+      "imagem": "https://images.pexels.com/photos/5700767/pexels-photo-5700767.jpeg",
+      "id": 10
+    },
+    {
+      "id": "dc9e",
+      "nome": "Nintendo swita",
+      "preco": "1200,00",
+      "imagem": "https://cdn.pixabay.com/photo/2019/01/24/23/54/nintendo-switch-3953601_640.jpg"
+    }
+  ]
+}
